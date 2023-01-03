@@ -8,4 +8,4 @@
 https://user-images.githubusercontent.com/121160420/210138942-1b656e0e-2da8-482d-b31d-c4c737099df2.mp4
 
 
-Berdasarkan hasil percobaan di atas, output yang dihasilkan sudah sesuai dengan perintah yang diminta. Dimana lampu LED pada rangkaian akan on (menyala) dan of (mati) apabila tombol pada website diklik, dalam artian menyala atau matinya lampu LED pada rangkaian mengikuti perintah dari website cayenne (membuat akun cayenne).
+Pada percobaan didapatkan hasil output dimana LED pada rangkaian akan menyala (on) dan mati (off) jika diklik tombol yang ada pada website. Dimana berarti lampu nyala dan mati mengikuti perintah dari website cayenne
